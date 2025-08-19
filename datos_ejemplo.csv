@@ -1,0 +1,9 @@
+ID,Nombre,Edad,Genero,Salario,Departamento
+1,Ana,25,Femenino,50000.0,Ventas
+2,Luis,30,Masculino,,Marketing
+3,Carlos,Treinta y cinco,Masculino,60000.0,Ventas
+4,Sofia,40,Femenino,55000.0,RRHH
+5,,45,Masculino,70000.0,TI
+6,Carlos1,Treinta y cinco,Trans,60000.0,Ventas
+7,Carlos2,Treinta y cinco,Gay,60000.0,Ventas
+8,Carlos3,Treinta y cinco,Lesbiana,60000.0,Ventas
